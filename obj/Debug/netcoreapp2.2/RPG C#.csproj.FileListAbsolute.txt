@@ -1,0 +1,11 @@
+/Users/meryemmeydi/Desktop/RPG C#/bin/Debug/netcoreapp2.2/RPG C#.deps.json
+/Users/meryemmeydi/Desktop/RPG C#/bin/Debug/netcoreapp2.2/RPG C#.runtimeconfig.json
+/Users/meryemmeydi/Desktop/RPG C#/bin/Debug/netcoreapp2.2/RPG C#.runtimeconfig.dev.json
+/Users/meryemmeydi/Desktop/RPG C#/bin/Debug/netcoreapp2.2/RPG C#.dll
+/Users/meryemmeydi/Desktop/RPG C#/bin/Debug/netcoreapp2.2/RPG C#.pdb
+/Users/meryemmeydi/Desktop/RPG C#/obj/Debug/netcoreapp2.2/RPG C#.csprojAssemblyReference.cache
+/Users/meryemmeydi/Desktop/RPG C#/obj/Debug/netcoreapp2.2/RPG C#.csproj.CoreCompileInputs.cache
+/Users/meryemmeydi/Desktop/RPG C#/obj/Debug/netcoreapp2.2/RPG C#.AssemblyInfoInputs.cache
+/Users/meryemmeydi/Desktop/RPG C#/obj/Debug/netcoreapp2.2/RPG C#.AssemblyInfo.cs
+/Users/meryemmeydi/Desktop/RPG C#/obj/Debug/netcoreapp2.2/RPG C#.dll
+/Users/meryemmeydi/Desktop/RPG C#/obj/Debug/netcoreapp2.2/RPG C#.pdb
