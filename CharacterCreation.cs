@@ -15,6 +15,7 @@ internal class CharacterCreation
                           "1-->Paladin\n" +
                           "2-->Mage\n" +
                           "3-->Warrior");
+                          
 
         var classChoice = Console.ReadLine();
         var correctChoice = false;
